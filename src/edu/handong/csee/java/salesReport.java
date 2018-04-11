@@ -2,7 +2,7 @@ package edu.handong.csee.java;
 
 import java.util.Scanner;
 
-/*제작자: 김도영 21700082
+/**제작자: 김도영 21700082
  * 자바프로그래밍 02분반
  * 날짜: 04/10
  * 설명: 이 프로그램은 salesman의 수, salesdata를 입력받아 결과값을 출력해주는 함수입니다.

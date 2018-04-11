@@ -1,5 +1,9 @@
 package edu.handong.csee.java;
-
+/**
+ * 
+ * @author doyou
+ *
+ */
 public class Salesman { //클래스 salesman
 	private String Name; //함수선언
 	private double Sales; //함수선언
