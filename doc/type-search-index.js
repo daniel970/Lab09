@@ -1,1 +1,1 @@
-typeSearchIndex = [{"p":"edu.handong.csee.java","l":"Salesman"},{"p":"edu.handong.csee.java","l":"salesReport"}]
+typeSearchIndex = [{"p":"edu.handong.csee.java","l":"Salesman"}]

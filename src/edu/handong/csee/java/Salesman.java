@@ -4,20 +4,20 @@ package edu.handong.csee.java;
  * @author doyou
  *
  */
-public class Salesman { //클래스 salesman
-	private String Name; //함수선언
-	private double Sales; //함수선언
+public class Salesman { //class salesman
+	private String Name; //declare String Name
+	private double Sales; //declare double Sales
 	
-	public String getName() { //저장된 이름값을 보낸다
+	public String getName() { //send Name value
 		return Name;
 	}
-	public void setName(String name) { //새로 들어온 이름의 입력값을 this를 이용해서 저장
+	public void setName(String name) { //save new name value
 		this.Name = name;
 	}
-	public double getSales() { //저장된 sales값을 보낸다
+	public double getSales() { //send Sales value
 		return Sales;
 	}
-	public void setSales(double sales) { //새로 들어온 sales의 입력값을 저장
+	public void setSales(double sales) { //save new Sales value
 		this.Sales = sales;
 	}
 	
